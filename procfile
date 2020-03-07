@@ -1,1 +1,1 @@
-web: gunicorn emmanuellorey.wsgi
+web: gunicorn myprofile.wsgi
